@@ -1,0 +1,52 @@
+:root {
+    --cor-de-fundo: #00030C;
+    --branco: #FFFFFF;
+    --cinza: #C0C0C0;
+    --azul: #167BF7;
+    --azul-claro: #519dfa;
+
+    --peso-fonte-titulo: 700;
+    --peso-fonte-corpo: 400;
+
+    --familia-fonte: 'Inter', sans-serif;
+
+    --tamanho-fonte-corpo: 1rem;
+    --tamanho-fonte-detalhes: .75rem;
+    --tamanho-fonte-titulo: 3rem;
+
+    --alinhamento-centro: center;
+    --alinhamento-esquerda: left;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+body {
+    font-family: var(--familia-fonte);
+    background-color: var(--cor-de-fundo);
+    color: var(--cinza);
+    font-size: var(--tamanho-fonte-corpo);
+    line-height: 1.5rem;
+}
+
+.titulo {
+    color: var(--branco);
+    font-size: 3rem;
+    font-weight: var(--peso-fonte-titulo);
+    line-height: 3.5rem;
+}
+
+.container {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+a {
+    color: var(--branco);
+    text-decoration: none;
+}
+
+
