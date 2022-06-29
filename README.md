@@ -1,4 +1,11 @@
-![logotipo alura+](https://user-images.githubusercontent.com/108292121/176327742-8a7b74dd-d7fb-47d2-94a1-3c360f139682.png)
+<h1 align="center">Alura+</h1>
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+## Índice
 
+* Descrição do projeto
+
+Projeto criado durante o curso Praticando HTML/CSS. Consiste em um site fictício de venda de um combo de assinaturas de cursos Alura. 
+
+* Status do projeto
+
+Concluído
